@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="pr3" size="5.000000 4.994444" />
-    <ImageTarget name="pr2" size="5.000000 5.000000" />
-    <ImageTarget name="pr1" size="5.000000 5.000000" />
+    <ImageTarget name="pr_3" size="5.000000 4.994444" />
+    <ImageTarget name="pr_2" size="5.000000 5.000000" />
+    <ImageTarget name="pr_1" size="5.000000 5.000000" />
     <ImageTarget name="tree" size="5.000000 5.000000" />
     <ImageTarget name="sea" size="5.000000 5.000000" />
     <ImageTarget name="flower" size="5.000000 5.000000" />

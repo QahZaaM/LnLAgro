@@ -6,7 +6,6 @@ using Vuforia;
 public class TrackingP1 : DefaultTrackableEventHandler {
 
 	public bool p1Active = false;
-	public TrackingP2 p2;
 	// Use this for initialization
 	protected override void OnTrackingFound() {
 		base.OnTrackingFound();
